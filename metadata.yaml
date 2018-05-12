@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25996#Tuhannen-ja-yhden-y-n-tarinoita-Suomen-lapsille-II
 gutenberg_issued: '2008-07-07'
 gutenberg_type: Text
 identifiers:
