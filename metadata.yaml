@@ -1,0 +1,42 @@
+_repo: Tuhannen-ja-yhden-y-n-tarinoita-Suomen-lapsille-II_25996
+_version: 0.1.0
+alternative_title: Arabian nights. Selections. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setala, Helmi
+    - Setälä, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2008-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25996'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Tales -- Arab countries'
+title: Tuhannen ja yhden yön tarinoita Suomen lapsille II
+url: http://www.gutenberg.org/ebooks/25996
